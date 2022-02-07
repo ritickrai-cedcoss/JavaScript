@@ -1,3 +1,5 @@
 // CDECOSS 
 
 /*SIMULATING OPEN SOURCE */
+
+var myName;
