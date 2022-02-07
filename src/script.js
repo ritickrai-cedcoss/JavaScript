@@ -1,2 +1,1 @@
-// Only change code below this line
-const myArray = [["ritick",42],["cedcoss",45]];
+const myList = [["cedcoss",23],["simulating",45],["open",67],["source",78],["ritick",63]];
